@@ -1,6 +1,10 @@
-### Hi there 👋
-
+# Halo semua! 
+Perkenalkan nama saya **Fauzi Haidir Abdillah** bisa dipanggil **Fauzi**.\
+Saya seorang **Mahasiswa** di **Universitas PGRI Kanjuruhan Malang**.\
+Saya sedang belajar di Program SIB Kampus Merdeka Dicoding Batch Kedua Pengembang Front-End Web dan Back-End.\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/om.ujiii/) ku ya.
 <!--
+### Hi there 👋
 **FauziHaidir/FauziHaidir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
