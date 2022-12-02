@@ -1,7 +1,7 @@
 # Halo semua! 
 Perkenalkan nama saya **Fauzi Haidir Abdillah** bisa dipanggil **Fauzi**.\
 Saya seorang **Mahasiswa** di **Universitas PGRI Kanjuruhan Malang**.\
-Saya sedang belajar di Program SIB Kampus Merdeka Dicoding Batch Kedua Pengembang Front-End Web dan Back-End.
+<!--Saya sedang belajar di Program SIB Kampus Merdeka Dicoding Batch Kedua Pengembang Front-End Web dan Back-End.-->
 
 
 ### Connect with me:
